@@ -1,0 +1,12 @@
+ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  max-height: 556px;
+  overflow: scroll;
+  list-style: none;
+}
+

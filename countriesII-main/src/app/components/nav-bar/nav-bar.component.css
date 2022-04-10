@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    overflow: auto;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 6vh;
+}
+.logo{
+    float: left;
+    color: white;
+    padding: 10px 0;
+    text-decoration: none;
+
+}
+
+nav{
+    float: right;
+
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li{
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 17px;
+    position: relative;
+
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+
+
+}
+
+
+
